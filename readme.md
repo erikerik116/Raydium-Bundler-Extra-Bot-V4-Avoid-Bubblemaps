@@ -53,7 +53,7 @@ Git clone https://github.com/erikerik116/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubb
 
 ## Result
 This bot is not a perfect bot.
-If u need this bot, contact me.
+If u need perfect bot, contact me.
 
 
 
