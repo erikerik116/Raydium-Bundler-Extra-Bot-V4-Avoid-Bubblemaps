@@ -51,6 +51,10 @@ Git clone https://github.com/erikerik116/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubb
 3.Run the Raydium Bundler extra bot.
     "npm run start" in terminal.
 
+## Result
+This bot is not a perfect bot.
+If u need this bot, contact me.
+
 
 
 
