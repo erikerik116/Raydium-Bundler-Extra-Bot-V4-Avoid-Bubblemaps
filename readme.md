@@ -1,5 +1,5 @@
-#  Raydium bundler extra bot
-
+#  Raydium bundler bot V4 (extra)
+This is the extra bot of Raydium bundler to avoid detecting from bubble maps
 
 ## Explain
 
