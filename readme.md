@@ -52,8 +52,18 @@ Git clone https://github.com/erikerik116/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubb
     "npm run start" in terminal.
 
 ## Result
+Before
+
+![bubblemap2](https://github.com/user-attachments/assets/225f811d-a12b-4891-8327-bbe5a8139b05)
+
+after
+
+![bubblemap4](https://github.com/user-attachments/assets/9305a878-bf45-4df1-8f8d-eb9fe58922fc)
+
+
+
 This bot is not a perfect bot.
-If u need perfect bot, contact me.
+If u need perfect bot, I have whole code version 2. contact me.plz
 
 
 
